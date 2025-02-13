@@ -44,3 +44,5 @@ st.write(data)
 
 # Line chart
 st.line_chart(data)
+
+st.write("Thank you!")
